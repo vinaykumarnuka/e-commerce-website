@@ -35,7 +35,7 @@ A frontend-only e-commerce website made with HTML and CSS to display branded bag
 - 
 ## How to Run
 
-- Download the files or clone the repository
+- Download the files or "https://github.com/vinaykumarnuka/e-commerce-website.git"  clone the repository
 - Open `index.html` in any browser
 - Use the navigation bar to visit all pages
 
