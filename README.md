@@ -13,20 +13,24 @@ A frontend-only e-commerce website made with HTML and CSS to display branded bag
 
 # folder structure
 
-├──bags
- └──----- bag1.jpg
-   ----- bag2.jpg
-   ----- bag3.jpg
-   ----- bag4.jpg
-   ----- bag5.jpg
-   ----- bag6.jpg
-   ----- bag7.jpg
-   ----- bag8.jpg
-   ----- bag9.jpg
-   ----- bag10.jpg
-   
-   ├──index.html
-   ├── style.css
+├── index.html
+├── style.css
+├── script.js
+├── images/    ← Folder containing product images
+│   ├── bag1.jpg
+│   ├── bag2.jpg
+│   ├── bag3.jpg
+    ├── bag4.jpg
+    ├── bag5.jpg
+    ├── bag6.jpg
+    ├── bag7.jpg
+    ├── bag8.jpg
+    ├── bag9.jpg
+    ├── bag10.jpg
+    ├── bag11.jpg
+    ├── bag12.jpg
+├── README.md
+
 
   ## Technologies used
 
